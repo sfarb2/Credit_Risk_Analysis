@@ -3,6 +3,8 @@
 ## Overview of Analysis
 The purpose of this analysis was to apply a variety of supervised machine learning models to see how they fared in predicting credit risk and whether any should be preferred considering the inherently unbalanced classification problem of this investigation.
 
+* NOTE: Please reference .ipynb files with "_FINAL" in the name.
+
 ## Results
 - 
 
